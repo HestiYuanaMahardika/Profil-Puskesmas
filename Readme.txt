@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Profil Puskesmas Simpur Bandar Lampung
 
-Template Name: Medicio
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+URL Website: https://puskesmas-simpur.netlify.app/
